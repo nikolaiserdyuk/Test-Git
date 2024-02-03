@@ -42,6 +42,8 @@ git status - команда, вызывающая блок информации 
 ## Lesson 2
 git branch - выводит ветки
 git branch -d "имя ветки" - удаление ветки
+git branch name - создание ветки
+
 
 # Инструкции работы с Markdown
 
